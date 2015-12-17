@@ -45,3 +45,4 @@ end
 
 gem 'mongoid', '~> 5.0.0'
 gem 'bson_ext'
+gem 'devise'
